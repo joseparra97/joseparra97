@@ -1,4 +1,4 @@
-![codewars](https://www.codewars.com/users/joseparra97/badges/large)
+[![codewars](https://www.codewars.com/users/joseparra97/badges/large)](https://www.codewars.com/users/joseparra97)
 
 <!--
 **joseparra97/joseparra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
